@@ -1,8 +1,8 @@
 # Resort Website
 
-#### Resort themed webiste
+#### Resort themed website
 
-#### Zack Worrix
+#### By Zack Worrix
 
 ## Website showcasing basic HTML along with CSS per the instruction of Epicodus course work
 
@@ -13,8 +13,8 @@
 
 ## Technologies used
 
-HTML
-CSS
+* HTML
+* CSS
 
 ## Legal
 
