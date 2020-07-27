@@ -1,18 +1,46 @@
+ul {
+    margin-bottom: 0;
+}
+
 ul li {
-  display: inline;
-  justify-content: space-between;
-  padding: 15px;
+    display: inline-block;
+    justify-content: space-between;
+    margin: 9px;
+}
+
+ul li a {
+    color: #ffffff;
+}
+
+ul li a:hover {
+    text-shadow: 0 0 1.25px yellow, 0 0 1.25px yellow;
+    color: yellow;
+    text-decoration: none;
+    overflow: hidden;
+}
+
+.links-div {
+    display: flex;
+    align-items: center;
+}
+
+nav {
+    height: 40px;
 }
 
 img {
-  width: 100vw;
-  height: auto;
+    width: 100vw;
+    height: auto;
 }
 
 h1 {
-  color: #282828;
+    color: #282828;
 }
 
 p {
-  font-style: italic;
+    font-style: italic;
+}
+
+.light-sleight-grey {
+    color: #778899;
 }
